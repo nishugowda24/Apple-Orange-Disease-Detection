@@ -1,1 +1,1 @@
-# Apple-Disease-Detection
+Apple-Orange-Disease-Detection
